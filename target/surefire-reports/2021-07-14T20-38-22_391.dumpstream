@@ -1,0 +1,4 @@
+# Created at 2021-07-14T20:38:23.204
+Boot Manifest-JAR contains absolute paths in classpath 'F:\QA\Session-1\conception et programmation1\MouseKeybordActions\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

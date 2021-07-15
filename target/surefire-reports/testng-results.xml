@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-15T01:09:12Z" name="Suite" finished-at="2021-07-15T01:09:17Z" duration-ms="5285">
+    <groups>
+    </groups>
+    <test started-at="2021-07-15T01:09:12Z" name="Test" finished-at="2021-07-15T01:09:17Z" duration-ms="5285">
+      <class name="mouseKeybordActionsPackage.SendKeysTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:mouseKeybordActionsPackage.SendKeysTest@2049a9c1]" started-at="2021-07-15T01:09:12Z" name="setup" finished-at="2021-07-15T01:09:14Z" duration-ms="1914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sendKeys()[pri:0, instance:mouseKeybordActionsPackage.SendKeysTest@2049a9c1]" started-at="2021-07-15T01:09:14Z" name="sendKeys" finished-at="2021-07-15T01:09:17Z" duration-ms="3354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendKeys -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mouseKeybordActionsPackage.SendKeysTest@2049a9c1]" started-at="2021-07-15T01:09:17Z" name="tearDown" finished-at="2021-07-15T01:09:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mouseKeybordActionsPackage.SendKeysTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
